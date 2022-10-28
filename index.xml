@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>matteac</title>
-    <link>https://matteac.github.io/</link>
+    <link>https://matteac.github.io/blog/</link>
     <description>Recent content on matteac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 14:44:31 -0300</lastBuildDate><atom:link href="https://matteac.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 14:44:31 -0300</lastBuildDate><atom:link href="https://matteac.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://matteac.github.io/about/</link>
+      <link>https://matteac.github.io/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matteac.github.io/about/</guid>
+      <guid>https://matteac.github.io/blog/about/</guid>
       <description>👨‍🔧 Working 👨‍🔧</description>
     </item>
     
